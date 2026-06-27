@@ -109,6 +109,3 @@ All analyses were performed on a high-performance computing cluster using SLURM.
 
 ---
 
-## Citation
-
-> Soria Martinez, A. (2026). *Multimodal Single-Cell, Spatial Transcriptomic and Epigenomic Analysis of Prostate Cancer to Uncover Tumor Ecotypes*. MSc Thesis, KU Leuven.
