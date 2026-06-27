@@ -1,0 +1,43 @@
+# ── Large data files ──────────────────────────────────────────────────
+*.h5ad
+*.h5
+*.rds
+*.RDS
+*.qs
+*.gpg
+*.mtx
+*.fastq
+*.bam
+*.pt
+*.pkl
+
+# ── Patient data ──────────────────────────────────────────────────────
+*.csv
+*.tsv
+
+# ── Figures — professor said to hide plots ────────────────────────────
+*.png
+*.pdf
+*.jpg
+*.jpeg
+*.svg
+*.eps
+
+# ── R session files ───────────────────────────────────────────────────
+*.RData
+*.Rhistory
+
+# ── Python/Jupyter ────────────────────────────────────────────────────
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# ── SLURM logs ────────────────────────────────────────────────────────
+*.out
+slurm-*.out
+
+# ── OS files ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
